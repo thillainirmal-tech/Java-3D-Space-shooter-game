@@ -40,7 +40,7 @@ StarStrike/
 1. Clone the repo:
 
 ```bash
-git clone https://github.com/thillainiraml-tech/StarStrikeGame.git
+git clone https://github.com/thillainirmal-tech/Java-3D-Space-shooter-game.git
 cd StarStrike
 ```
 
