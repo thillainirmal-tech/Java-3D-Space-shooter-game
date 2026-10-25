@@ -1,5 +1,6 @@
 # StarStrike: A Space Fight Game in jMonkeyEngine
 
+[![CI](https://github.com/thillainirmal-tech/Java-3D-Space-shooter-game/actions/workflows/ci.yml/badge.svg)](https://github.com/thillainirmal-tech/Java-3D-Space-shooter-game/actions/workflows/ci.yml)
 ![Game Type](https://img.shields.io/badge/Genre-Space--Shooter-blue)
 ![Engine](https://img.shields.io/badge/Engine-jMonkeyEngine-green)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
